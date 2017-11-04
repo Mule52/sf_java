@@ -1,0 +1,12 @@
+/home/alex/git/sftest/src/main/java/models/Command.java
+/home/alex/git/sftest/src/main/java/models/RemoveCommand.java
+/home/alex/git/sftest/src/main/java/models/DependsCommand.java
+/home/alex/git/sftest/src/main/java/models/Component.java
+/home/alex/git/sftest/src/main/java/models/ListCommand.java
+/home/alex/git/sftest/src/main/java/Main.java
+/home/alex/git/sftest/src/main/java/models/DefaultCommand.java
+/home/alex/git/sftest/src/main/java/models/Logger.java
+/home/alex/git/sftest/src/main/java/models/InstallCommand.java
+/home/alex/git/sftest/src/main/java/models/ComponentManager.java
+/home/alex/git/sftest/src/main/java/models/CommandFactory.java
+/home/alex/git/sftest/src/main/java/models/Loggable.java

@@ -1,0 +1,12 @@
+models/CommandFactory.class
+main/java/Main.class
+models/RemoveCommand.class
+models/Command.class
+models/DependsCommand.class
+models/Loggable.class
+models/Logger.class
+models/ComponentManager.class
+models/DefaultCommand.class
+models/InstallCommand.class
+models/ListCommand.class
+models/Component.class
