@@ -1,6 +1,8 @@
 # sf_java
 Managing a Component Dependency Database from http://www.cs.cornell.edu/info/courses/spring-98/cs211/assgts/assgt3/assgt3.pdf
 
+
+https://icpcarchive.ecs.baylor.edu/external/51/p5192.pdf
 Components of computer systems often have dependencies—other components that must be installed
 before they will function properly. These dependencies are frequently shared by multiple components.
 For example, both the TELNET client program and the FTP client program require that the TCP/IP
